@@ -1,4 +1,4 @@
-# BladeOne-tutorial1
+# BladeOne-tutorial
 It is a set of PHP tutorials that includes access to database, templates and validation.
 
 

@@ -1,0 +1,17 @@
+{
+    "name": "jorge/blade-one-tut1",
+    "description": "It is a tutorial",
+    "type": "project",
+    "require": {
+        "eftec/bladeone": "^3.14",
+        "eftec/daoone": "^3.13",
+        "eftec/validationone": "^1.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jorge Castro",
+            "email": "jorge.castro.c@gmail.com"
+        }
+    ]
+}

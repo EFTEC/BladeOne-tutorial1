@@ -1,7 +1,5 @@
 <?php
-
 namespace BladeOneTut1;
-
 class ProductDao
 {
     /**
@@ -12,7 +10,6 @@ class ProductDao
         global $db;
         return $db->select('*')->from('products')->toList();
     }
-
     /**
      * @param $product
      * @return mixed

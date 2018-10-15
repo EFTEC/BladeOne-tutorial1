@@ -55,6 +55,4 @@ if ($button) {
     $product['name']='';
     $product['price']='';
 }
-
-
 echo $blade->run("product.insert4",['product'=>$product,'messages'=>$val->messageList]);
